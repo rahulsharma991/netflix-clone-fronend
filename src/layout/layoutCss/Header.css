@@ -1,0 +1,11 @@
+.netflix-logo {
+    height: 50px;
+    width: 100px;
+}
+.header-container {
+    position: absolute;
+    z-index: 10;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.366);
+    width: 100%;
+}
